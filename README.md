@@ -8,7 +8,7 @@ The visualizations also get updated with the selctions/filters.
 also tried to show a seperate list for Tacos to demonatrate the capability to display trucks by a food item.
 
 # Techinical details and approach
---Requirements used Lnguage : Python Libraries : plotly,streamlit,pandas,openpyxl,pillow libraries Repository : Github Workspace used to collabrate my python application is : Streamlit Cloud
+--Requirements used Language : Python Libraries : plotly,streamlit,pandas,openpyxl,pillow libraries Repository : Github Workspace used to collabrate my python application is : Streamlit Cloud
 
 Understood the dataset and explored the columns for understanding how best I can use selective columns to improve web application response time.
 
