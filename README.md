@@ -35,6 +35,7 @@ The application can be direcltly tested using streamlit run /app.py
 
 # Docker image, build and run
 Dockerfile is created to build the image for the web app
-
+# build
 docker build -t food-truck-web-app .
+# run
 docker run -p 8501:8501 food-truck-web-app streamlit run /src/app.py
